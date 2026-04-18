@@ -13,10 +13,13 @@ It is built using STM32 HAL drivers and configured via STM32CubeMX.
 - Embedded control using STM32 HAL
 - Modular design for adding sensors or automation later
 
-## Demo
-
 ## Internal Layout
 
+<img width="250" height="250" alt="internals" src="https://github.com/user-attachments/assets/83d027c9-231a-4afb-88fc-beb3661b06eb" />
+
+## Demo
+
+https://github.com/user-attachments/assets/5336d19a-5b55-49a7-8e7b-d9053d2fd31e
 
 ## Project Structure
 
