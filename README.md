@@ -8,6 +8,7 @@ It is built using STM32 HAL drivers and configured via STM32CubeMX.
 
 ## Features
 
+- RFID based dispensing
 - Motor-controlled dispensing mechanism
 - User feedback via buzzer/LED
 - Embedded control using STM32 HAL
